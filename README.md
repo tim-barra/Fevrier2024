@@ -21,8 +21,8 @@ Earlier steps produce output files used by later steps
 6) paml_revisions.tar.gz contains the filtered/trimmed individual orthogroup alignments
    and trees with branch labels
 
-##7) concat.tar.gz contains the concatenated alignment of orthologs with all species represented
-##   and tree with branch labels
+7) concat.tar.gz contains the concatenated alignment of orthologs with all species represented
+   and tree with branch labels
 
-##8) concat.lower20.tar.gz contains the concatenated alignment of the orthogroups with
-##   the lowest max pairwise dS value (among those with all species represented)
+8) concat.lower20.tar.gz contains the concatenated alignment of the orthogroups with
+   the lowest max pairwise dS value (among those with all species represented)
